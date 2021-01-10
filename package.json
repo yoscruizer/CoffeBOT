@@ -10,12 +10,12 @@
   "author": "SlavyanDesu",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SlavyanDesu/BocchiBot.git"
+    "url": "https://github.com/Dezkarte/CoffeBOT.git"
   },
   "bugs": {
-    "url": "https://github.com/SlavyanDesu/BocchiBot/issues"
+    "url": "https://github.com/Dezkarte/CoffeBOT/issues"
   },
-  "homepage": "https://github.com/SlavyanDesu/BocchiBot",
+  "homepage": "https://github.com/Dezkarte/CoffeBOT",
   "license": "MIT",
   "dependencies": {
     "@justalk/pornhub-api": "^3.4.0",
